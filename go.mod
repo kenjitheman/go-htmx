@@ -1,4 +1,4 @@
-module github.com/btwkenji/go-htmx
+module github.com/kenjitheman/go-htmx
 
 go 1.21.6
 
